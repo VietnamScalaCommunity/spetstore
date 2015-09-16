@@ -1,5 +1,7 @@
 # Scala Pet Store API (開発中)
 
+commit check
+
 [![Build Status](https://travis-ci.org/j5ik2o/spetstore.png?branch=master)](https://travis-ci.org/j5ik2o/spetstore)
 
 ## 目的
